@@ -58,5 +58,9 @@ namespace ASPNETCoreIdentitySample.MsTests
                 Assert.IsTrue(users.Any(x => x.UserName == "Admin"));
             });
         }
+
+
+
+
     }
 }
