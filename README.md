@@ -2,15 +2,7 @@
 
 # پروژه تست Asp Core
 
-<p>
-  <a href="https://github.com/VahidN/DNTIdentity">
-     <img alt="GitHub Actions status" src="https://github.com/VahidN/DNTIdentity/workflows/.NET%20Core%20Build/badge.svg">
-  </a>
-</p>
-
-![dnt-identity-02](/src/ASPNETCoreIdentitySample/wwwroot/images/dnti02.png)
-
-![dnt-identity-01](/src/ASPNETCoreIdentitySample/wwwroot/images/dnti01.png)
+سلام چطوری
 
 ## برای اجرای این پروژه
 
